@@ -1,0 +1,7 @@
+.home-img img{
+    height: 260px;
+    width: 260px;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 50%;
+}
